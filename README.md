@@ -17,8 +17,9 @@
 # Color Contribution
 ![Color - Contribution](https://github.com/abehashahab/Competition-Analysis/assets/18510258/b4e90345-0732-468f-becd-03e31a13ed2b)
 
-# Fabric-Type ![Type-Wise-Analysis](https://github.com/abehashahab/Competition-Analysis/assets/18510258/ad36c18a-487c-4bd3-b354-066a939cd62c)
-Analysis
+# Fabric-Type Analysis
+![Type-Wise-Analysis](https://github.com/abehashahab/Competition-Analysis/assets/18510258/ad36c18a-487c-4bd3-b354-066a939cd62c)
+
 
 
 
