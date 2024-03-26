@@ -8,7 +8,7 @@ In the competitive landscape of gents' apparel, brands strive to differentiate t
 Ideas, J, and Alkaram emerge as leaders in design inventory, showcasing robust offerings that cater to diverse customer preferences. Almirah follows closely behind, suggesting a competitive range of designs, while Bonanza presents a smaller inventory, potentially impacting its appeal to customers seeking variety.
 
 # Price Point Analysis 
-- Ideas offers products across a wide range of price points, with a significant portion falling within the 3000-4000 and 7000-8000 ranges. This indicates a strategy catering to both mid-range and premium customers.
+- Ideas offers products across a wide range of price points, with a significant portion falling within the 3000-4000 and 7000-8000 above ranges. This indicates a strategy catering to both mid-range and premium customers.
 - Alkaram also covers a broad price range, with a notable concentration in the 4000-6000 range, indicating a focus on mid-range products.
 - J. offers products primarily in the mid to high price range, with significant offerings in the 7000-8000 and 8000-above categories.
 - Almirah's pricing strategy is focused more on the higher end, with a considerable number of products priced above 7000.
