@@ -1,7 +1,5 @@
 ![comp-1](https://github.com/abehashahab/Competition-Analysis/assets/18510258/bffbd202-9227-4f45-bedc-aa6a9cec612f)
 
-# Competition-Analysis
-
 # Overview Competition Analysis of Gents' Apparel
 In the competitive landscape of gents' apparel, brands strive to differentiate themselves through various factors such as design diversity, pricing strategies, subcategory focus, color contributions, and fabric types. Analyzing key metrics among prominent brands like Alkaram, Almirah, J, Bonanza, and Ideas provides valuable insights into their market positioning and competitive advantages.
   
